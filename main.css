@@ -5,8 +5,6 @@ body{
 }
 .box{
   position: absolute;
-  top: 50%;
-  left: 50%;
   transform: translate(-50%, -50%);
   width: 300px;
   height: 200px;
@@ -51,4 +49,40 @@ body{
     transform: translate(-50%, -50%);
     font-size: 150%;
     color: auto;
+}
+.boxone{
+  top: 50%;
+  left: 15%;
+}
+.boxtwo{
+  top: 50%;
+  left: 50%;
+}
+.boxthree{
+  top: 50%;
+  left: 85%;
+}
+.boxfour{
+  top: 90%;
+  left:15%;
+}
+.boxfive{
+  top: 90%;
+  left: 50%;
+}
+.boxsix{
+  top: 90%;
+  left: 85%;
+}
+.boxseven{
+  top: 130%;
+  left: 15%;
+}
+.boxeight{
+  top: 130%;
+  left: 50%;
+}
+.boxnine{
+  top: 130%;
+  left: 85%;
 }
