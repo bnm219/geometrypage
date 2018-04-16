@@ -1,5 +1,4 @@
 body{
-  background-color: yellow;
   background-image: url("pineappleWallpaper.png");
   background-size: 100%;
 }
@@ -82,7 +81,7 @@ body{
     padding: 20px;
     background-color: #87ceeb;
     color: white;
-    font-family: 'Gaegu', cursive;
+    font-family: 'Gaegu';
     text-decoration: none;
     text-transform: uppercase;
 }
